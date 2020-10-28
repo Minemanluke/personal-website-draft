@@ -4,7 +4,8 @@ A draft for an amazing up and coming website<br/>
 
 **My plans**<br/>
 In the future features I would like to add are:
-- An index page
+- ~~An index page~~ Done!
+- Actually fulfilling my website promises
 
 **What else?**<br/>
 GitHub hosting is pretty good I hear so I might host this there in the future after index page
