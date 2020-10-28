@@ -2,6 +2,9 @@
 A draft for an amazing up and coming website<br/>
 [![](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ "")
 
-**My plans**
+**My plans**<br/>
 In the future features I would like to add are:
 - An index page
+
+**What else?**<br/>
+GitHub hosting is pretty good I hear so I might host this there in the future after index page
